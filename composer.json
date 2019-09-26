@@ -1,6 +1,6 @@
 {
     "name": "yjtec/linview",
-    "description": "The Linphe Framework.",
+    "description": "Linphe框架的模板层",
     "keywords": ["view", "linphe"],
     "type": "library",
     "license": "MIT",
